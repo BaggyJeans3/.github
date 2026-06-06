@@ -7,7 +7,7 @@
 
 # 👖 BaggyJeans (배기진스)
 
-> 중부대학교(고양캠퍼스) 정보보호학 전공 학부생 프로젝트
+중부대학교(고양캠퍼스) 정보보호학 전공 학부생 프로젝트
 
 <br/>
 
@@ -32,7 +32,7 @@
 |:---:|:---:|:---:|:---:|:---:|
 | [@annseojin](https://github.com/annseojin) | [@progremer123](https://github.com/progremer123) | [@leeazyone](https://github.com/leeazyone) | [@leetaeyeon11111](https://github.com/leetaeyeon11111) | [@dodo4421](https://github.com/dodo4421) |
 | 안서진 | 백이랑 | 이지원 | 이태연 | 장재원 |
-| 팀장 | Member | Member | Member | Member |
+| 팀장 | 팀원 | 팀원 | 팀원 | 팀원 |
 
 </div>
 
